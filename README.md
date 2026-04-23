@@ -1,6 +1,7 @@
 Hi there 👋, I'm Ciro.
 **Cultivating Data Intelligence for a more productive field.**
 I design and implement data architectures that connect the dots between agricultural production, climate risk, and market technology. My flagship project, **AgroHarvest BR**, integrates 8 government and private sources into a high-performance Star Schema.
+
 **Core Stack:**
 Python 🐍 | SQL 🐘 | Docker 🐳 | FastAPI ⚡ | PostgreSQL 📊
 📫 Let's talk: cirofsouza@live.com
